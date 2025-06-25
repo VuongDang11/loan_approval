@@ -2,7 +2,8 @@
 Follow the steps below to set up and run the project locally:
 
 Create a virtual environment
-python -m venv env
+python -m venv env 
+
 Activate the virtual environment
 
 On Windows:
